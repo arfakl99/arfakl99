@@ -13,15 +13,15 @@
 
 <h4 align="justify" style="font-family: times new roman" align="left">I am a GIS Engineer and GIS developer, I am passionate about (Web development using ReactJs/NextJs) . Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
 
-- 🔭 I’m currently working on : [My Anime App](https://github.com/TheMostafax/My_Anime_App.git)
+- 🔭 I’m currently working on : [On my company Web App]( using React,tailwind and Nextjs)
 
-- 🌱 I’m currently learning : **AWS/MOBILE DEVELOPMENT **
+- 🌱 I’m currently learning : **Data structure & Algorith And AWS/MOBILE DEVELOPMENT **
 
 - 📫 How to reach me : **muhammadarifnust99@gmail.com**
   
 - 🌍 My personal portfolio website : [My Portfolio](https:arfaklnetlify.com)
 
-- 📜 You can check here my resume : [Mostafa Hassan CV](https://drive.google.com/file/d/1GJFpmwRCMyZ3K0B0Q4sOncEloBsT5qe/view?)
+<!-- - 📜 You can check here my resume : [Mostafa Hassan CV](https://drive.google.com/file/d/1GJFpmwRCMyZ3K0B0Q4sOncEloBsT5qe/view?) -->
 
 <hr>
 
@@ -42,12 +42,6 @@
     </td>
     <td align="center">
       <h3>Front End Development</h3>
-    </td>
-    <td align="center">
-      <h3>Backend End Development</h3>
-    </td>
-    <td align="center">
-      <h3>Mobile App Development</h3>
     </td>
     <td align="center">
       <h3>Database</h3>
