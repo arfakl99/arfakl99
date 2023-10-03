@@ -1,21 +1,31 @@
-### Hi there 👋
-I'm Arif
-About me
-"I am a GIS engineer and GIS developer, and I am passionate about web development using ReactJs and NextJs. Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills".
+<p align="center">
+  <img src="https://thumbs.gfycat.com/BlindCaringCentipede-size_restricted.gif" width="100%" height=300>
+</p>
+<h1 align="center">Hi there
+ 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ , I'm Arif</h1>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-<!--
-**arfakl99/arfakl99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="left">About me</h1>
 
-- 🔭 I’m currently working on one of the componay product using React,tailwind and Nextjs ...
-- 🌱 I’m currently learning Data Structure and Algorith & Mobilw and web development...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: muhammadarifnust99@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am an avid athlete with a passion for sports, and I love football. Staying fit and healthy is important to me 
+
+<h4 align="justify" style="font-family: times new roman" align="left">I am a GIS Engineer and GIS developer, I am passionate about (Web development using ReactJs/NextJs) . Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
+
+- 🔭 I’m currently working on : [My Anime App](https://github.com/TheMostafax/My_Anime_App.git)
+
+- 🌱 I’m currently learning : **AWS/MOBILE DEVELOPMENT **
+
+- 📫 How to reach me : **muhammadarifnust99@gmail.com**
+  
+- 🌍 My personal portfolio website : [My Portfolio](https:arfaklnetlify.com)
+
+- 📜 You can check here my resume : [Mostafa Hassan CV](https://drive.google.com/file/d/1GJFpmwRCMyZ3K0B0Q4sOncEloBsT5qe/view?)
+
+<hr>
+
+<h1 align="left">Connect with me</h1>
 <p align="left">
 <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
@@ -140,5 +150,4 @@ Here are some ideas to get you started:
 
 
 
--->
-![github-profile](https://github.com/arfakl99/arfakl99/assets/66298095/78177824-2c0a-4206-8463-6d2178749215)
+
