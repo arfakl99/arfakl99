@@ -1,110 +1,112 @@
- <!-- <p align="center">
-  <img src="https://thumbs.gfycat.com/BlindCaringCentipede-size_restricted.gif" width="100%" height=300>
-</p> -->
 <h1 align="center">
- 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
- , I'm Arif</h1>
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> 
+  Hi, I'm Arif!
+</h1>
 
+<h3 align="center">🗺️ GIS Engineer | Full-Stack Developer | Web Mapping Specialist</h3>
 
-<h1 align="left">About me</h1>
-
-
-
-<h4 align="justify" style="font-family: times new roman" align="left">I am a GIS Engineer and GIS developer, I am passionate about Web development . Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
-
-- 🔭 I’m currently working on : [On my company Product]( using React,Node Nextjs, Postgres)
-
-- 🌱 I’m currently learning : **Data structure & Algorith And AWS/MOBILE DEVELOPMENT **
-
-- 📫 How to reach me : **muhammadarifnust99@gmail.com**
-  
-- 🌍 My personal portfolio website : [My Portfolio](https:arfaklnetlify.com)
-
-<!-- - 📜 You can check here my resume : [Mostafa Hassan CV](https://drive.google.com/file/d/1GJFpmwRCMyZ3K0B0Q4sOncEloBsT5qe/view?) -->
-
-<hr>
-
-<h1 align="left">Connect with me</h1>
-<p align="left">
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="" alt="_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="" alt="https://www.linkedin.com/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://arif-prtfolio-app.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:muhammadarifnust99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
+---
 
-  <hr>
+## 🚀 About Me
 
-<table>
+Passionate **GIS Engineer & Full-Stack Developer** with expertise in web mapping, geospatial analysis, and modern web technologies. I love building scalable applications that solve real-world geographic problems. Always learning, always building! 🌍
 
+### 🎯 What I'm Currently Working On
+- **Company Product**: Building with React, Node.js, Next.js, PostgreSQL
+- **Web Mapping Solutions**: Creating interactive maps using ArcGIS APIs and Leaflet
+
+### 📚 Currently Learning
+- Advanced Data Structures & Algorithms
+- AWS & Cloud Architecture
+- Mobile Development
+
+### 📬 Let's Connect!
+- 📧 **Email**: muhammadarifnust99@gmail.com
+- 🌐 **Portfolio**: [arif-prtfolio-app.vercel.app](https://arif-prtfolio-app.vercel.app/)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+---
+
+## 💻 Tech Stack
+
+<table align="center">
   <tr>
-    <td align="center">
-      <h3>Programming Languages</h3>
+    <td align="center" width="50%">
+      <h3>🗺️ GIS & Geospatial</h3>
+      <p>
+        <img src="https://img.shields.io/badge/ArcGIS-1F2937?style=flat-square&logo=esri&logoColor=white" />
+        <img src="https://img.shields.io/badge/QGIS-93B023?style=flat-square&logo=qgis&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
     </td>
-    <td align="center">
-      <h3>Front End Development</h3>
-    </td>
-    <td align="center">
-      <h3>Database</h3>
+    <td align="center" width="50%">
+      <h3>💻 Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-      <!-- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-      </a> -->
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
     </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"height="40"/>
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <h4>Postgresql</h4>
-      </a>
+    <td align="center" width="50%">
+      <h3>🗄️ Backend & Databases</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
+---
 
-<hr>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
+---
 
-<hr>
+## 🏆 Featured Projects
 
-<p align="center">
-  <img src="https://external-preview.redd.it/IchdhURbykYTW7kk2jVg6lT3SsHXR4U03gEfn6SrUXw.jpg?auto=webp&s=114b4c78762d0cc9e1e52ee39d76d3d595038380" width="100%" height=300>
-</p>
+**Check out my [full portfolio](https://arif-prtfolio-app.vercel.app/)** for more projects!
 
+---
 
+## 🎓 Education & Certifications
 
+- 📖 GIS & Remote Sensing
+- 🏅 Full-Stack Web Development
+- 🌐 Web Mapping & Geospatial Technologies
 
+---
 
-
-
+<div align="center">
+  
+**Let's build something amazing together!** 🚀
+  
+</div>
