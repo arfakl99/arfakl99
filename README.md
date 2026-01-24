@@ -82,15 +82,6 @@ Passionate **GIS Engineer & Full-Stack Developer** with expertise in web mapping
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 **Check out my [full portfolio](https://arif-prtfolio-app.vercel.app/)** for more projects!
