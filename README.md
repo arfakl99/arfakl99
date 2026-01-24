@@ -12,7 +12,7 @@
   <a href="mailto:muhammadarifnust99@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="blank">
+  <a href="https://www.linkedin.com/in/arif99/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -35,7 +35,7 @@ Passionate **GIS Engineer & Full-Stack Developer** with expertise in web mapping
 ### 📬 Let's Connect!
 - 📧 **Email**: muhammadarifnust99@gmail.com
 - 🌐 **Portfolio**: [arif-prtfolio-app.vercel.app](https://arif-prtfolio-app.vercel.app/)
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/arif99/)
 
 ---
 
